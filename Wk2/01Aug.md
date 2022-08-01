@@ -56,3 +56,11 @@ Abbott and Dayan classify models into three main types:
 * descriptive – based on experimental data
 * mechanistic – based on known anatomy and physiology
 * interpretive – based on computational and information-theoretic principles
+
+# Introduction to the Nervous System
+The basic process of recognition happens in various stages: observation, processing by the visual cortex, transmission to the motor and frontal cortices, and finally motor output.
+
+The brain can be roughly distinguished into six layers, and the distribution of neurons across these layers differs from region to region. For example, sensory neurons, which are easily excitable, are concentrated in layer 4, while motor neurons, which are less excitable, are more dense in layer 2.
+
+A neuron consists of dendrites (branches at the input side of the cell), a soma (cell body), and an axon (a long tail on the output side of the cell). A signal is transmitted as a spike in the voltage, called the *action potential*.  
+A neuron in its resting state has potassium ions on one side of the membrane, and sodium and calcium ions on the other. The potential difference across the membrane is usually approximately -70 mV.
