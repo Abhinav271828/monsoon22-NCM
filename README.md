@@ -14,3 +14,12 @@ Notes and resources for the Intro to Neural and Cognitive Modelling course at II
         * Modelling
             - Levels and Types of Models
             - Modelling Process
+* Week 2
+    * Lecture 2 (01 August, Monday)
+        * Studying the Brain
+            - Experimental Methodology
+            - The Brain as a Computing Device
+            - Marr's Three-Level Framework
+                - Vision
+                - Memory
+            - Abbott and Dayan's Classification
