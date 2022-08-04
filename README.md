@@ -23,3 +23,12 @@ Notes and resources for the Intro to Neural and Cognitive Modelling course at II
                 - Vision
                 - Memory
             - Abbott and Dayan's Classification
+    * Lecture 3 (04 August, Thursday)
+        * Introduction to Neuroscience (contd.)
+            - Neurons and Synapses
+            - The Brain
+        * Introduction to the Nervous System and Nerve Tissue
+            - Functions
+            - Organisation of the CNS
+            - Types of Neurons
+            - Physiology
