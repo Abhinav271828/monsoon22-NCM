@@ -32,3 +32,7 @@ Notes and resources for the Intro to Neural and Cognitive Modelling course at II
             - Organisation of the CNS
             - Types of Neurons
             - Physiology
+* Week 3
+    * Lecture 4 (08 August, Monday) [recorded]
+        * Action Potential
+        * Passive Membrane Model
