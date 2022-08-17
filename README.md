@@ -36,3 +36,9 @@ Notes and resources for the Intro to Neural and Cognitive Modelling course at II
     * Lecture 4 (08 August, Monday) [recorded]
         * Action Potential
         * Passive Membrane Model
+    * Lecture 5 (11 August, Thursday)
+        * Action Potential (contd.)
+            - Transmission
+            - Synapses
+            - Brain Waves
+        * Passive Membrane Model (contd.)
