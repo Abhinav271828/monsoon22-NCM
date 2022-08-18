@@ -42,3 +42,10 @@ Notes and resources for the Intro to Neural and Cognitive Modelling course at II
             - Synapses
             - Brain Waves
         * Passive Membrane Model (contd.)
+* Week 4
+    * Lecture 6 (18 August, Thursday)
+        * Passive Membrane Model (contd.)
+            - Step Current
+            - Pulse Current
+            - Multiple Pulses
+        * Leaky Integrate-and-Fire Model
