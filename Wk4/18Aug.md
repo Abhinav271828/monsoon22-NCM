@@ -67,7 +67,7 @@ $$U_\text{membrane}(t) = U_\text{rest} + \left[U(t_0) - U_\text{rest} \right] e^
 # Leaky Integrate-and-Fire Model
 We have observed that a spike in the input leads to an EPSP (excitatory postsynaptic potential). This is followed by the relative refractory period, the undershoot and the stabilisation. These are not modelled by the passive membrane model.
 
-The leaky integrate-and-fire model, then, augments the passive membrane model and incorporates two equations:
+The leaky integrate-and-fire model, then, augments the passive membrane model and incorporates one new equations:
 $$\tau \frac{dU_\text{membrane}}{dt} = -(U_\text{membrane}-U_\text{rest}) + RI(t)$$
 $$U_\text{membrane}(t) = \theta \implies \text{Fire + Reset}.$$
 
