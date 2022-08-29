@@ -43,7 +43,9 @@ where $q_0$ is the total amount of charge deposited. In general, we know that $I
 
 We propose that this is solved by
 $$U_\text{membrane}(t) = U_\text{rest} + RI_0 \left[ 1 - e^{\frac{(t-t_0)}{\tau}}\right].$$
+This can be easily checked by differentiating.
 
+Consider now the voltage at the end of the pulse.  
 Suppose that $\Delta << \tau$. In that case, we can express the exponential using a Taylor-series based approximation
 $$e^{-\frac\Delta\tau} \approx 1 - \frac\Delta\tau.$$
 This gives us
@@ -58,8 +60,10 @@ Thus, the voltage jumps by $\frac{q_0}c$ through the duration of the pulse. Ther
 As the DE is linear, we can describe the solution under a sum of pulses as a sum of the solutions for each pulse.  
 
 Now, any arbitrary current can be represented as a sum of infinitesimally small pulses. Thus the summation turns into an integral and we get
-$$U_\text{membrane}(t) = U_\text{rest} + \int_\infty^t \frac1c e^{-\frac{(t-t')}\tau} \cdot I(t')dt',$$
-since the infinitesimal charge $dq$ deposited at during $t' \leq t \leq t' + dt'$ is $I(t')dt'$.
+$$U_\text{membrane}(t) = U_\text{rest} + \int_\infty^t \frac1C e^{-\frac{(t-t')}\tau} \cdot I(t')dt',$$
+since the infinitesimal charge $dq$ deposited at during $t' \leq t \leq t' + dt'$ is $I(t')dt'$. This follows as the voltage at a time $t$ due to a pulse of charge $q$ at time $t_0$ is
+$$U_\text{pulse} = \frac{q}{C}e^{-\frac{(t-t_0)}{\tau}},$$
+so we add all these terms to $U_\text{rest}$ to obtain the integral.
 
 This solution is specific to the case where the voltage was zero prior to the current. In the general case, this residual voltage also decays exponentially, and so we add this term to the equation to get
 $$U_\text{membrane}(t) = U_\text{rest} + \left[U(t_0) - U_\text{rest} \right] e^{\frac{-(t-t_0)}\tau} + \int_{t_0}^t \frac1c e^{\frac{-(t-t_0)}\tau} \cdot I(t') dt'.$$

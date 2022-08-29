@@ -22,7 +22,7 @@ $f(I)$ represents the value of the frequency at the current $I$, while $g(F)$ is
 Using this function $g$, we can obtain the range of $I$ required. We can see that for
 $$f \in [0, 40] \text{ Hz}$$
 to hold, we must have
-$$I \in [6.3 \cdot 10^{-7}, 1.5739 \cdot 10^{-4}] \text{ A}.$$
+$$I \in [6.25 \cdot 10^{-10}, 7.7 \cdot 10^{-10}] \text{ A}.$$
 
 This is the required range.
 

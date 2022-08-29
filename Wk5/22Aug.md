@@ -36,7 +36,7 @@ n &\propto e^{-\frac{E}{kT}}. \end{split}$$
 
 Thus we can calculate the potential across the membrane, or *Nernst reversal potential* $\Delta u$, given the concentrations $n_1$ and $n_2$ (inside and outside respectively):
 $$\begin{split}
-\frac{n_1}{n_2} &= \frac{e^{-\frac{E_1}{kT}}}{e^{-\frac{E_2}{kT}}} = e^{-\frac1{kT}(E_1 - R_2)} \\
+\frac{n_1}{n_2} &= \frac{e^{-\frac{E_1}{kT}}}{e^{-\frac{E_2}{kT}}} = e^{-\frac1{kT}(E_1 - E_2)} \\
 &= e^{-\frac{q}{kT}(u_1 - u_2)} \\
 \implies \ln\left(\frac{n_1}{n_2}\right) &= -\frac{q}{kT}(u_1 - u_2) \\
 \implies \Delta u &= -\frac{kT}{q} \ln \left(\frac{n_1}{n_2}\right).

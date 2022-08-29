@@ -2,7 +2,7 @@
 Notes and resources for the Intro to Neural and Cognitive Modelling course at IIIT Hyderabad.
 
 # Course Outline
-- [ ] Introduction
+- [x] Introduction
 - [ ] Single-Neuron Models
 - [ ] Neural Network Models
 - [ ] Higher-Level Models and Cognitive Architectures
@@ -49,3 +49,13 @@ Notes and resources for the Intro to Neural and Cognitive Modelling course at II
             - Pulse Current
             - Multiple Pulses
         * Leaky Integrate-and-Fire Model
+* Week 5
+    * Lecture 7 (22 August, Monday)
+        * Leaky Integrate-and-Fire Model (contd.)
+            - Generalised Integrate-and-Fire Model
+            - Quality of LIF Models
+        * Biophysics of Neurons
+            - Resting Potential
+* Week 6
+    * Lecture 8 (29 August, Monday)
+        * 

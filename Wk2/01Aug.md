@@ -13,7 +13,7 @@ The working of the brain has been studied in various ways – lesioning, stimula
 Studying the diseased brain can also give insights into the functioning of the working brain; for example, a study of aphasia revealed that a similar region of the brain (including what are now called Broca's and Wernicke's areas) was affected across all patients. Thus these areas were concluded to be the "control centre" for language in the human brain.
 
 ## The Brain as a Computing Device
-The brain is composed of $10^11$ repeatable units, called neurons. Individually, they are slow and noisy; they are combined into multiple parallel subsystems that work independently but in a coordinated manner.  
+The brain is composed of $10^{11}$ repeatable units, called neurons. Individually, they are slow and noisy; they are combined into multiple parallel subsystems that work independently but in a coordinated manner.  
 Each neuron has, on average, $10^4$ connections – the network is densely connected. This ensures that every neuron is just "a few synapses away" from every other.
 
 Learning occurs due to changes in the properties of neurons and synapses. In a sense, the synapses between neurons are responsible for memories; stimulus statistics from the outside world are stored in the *paths* that signals follow through the brain.
@@ -30,7 +30,7 @@ David Marr proposed three levels of analysis:
 
 * the computational level – a specification of the input and output of the system.
 * the algorithmic level – a high-level model of the problem.
-* the implementation level – how neural networks actually accomplish the task
+* the implementation level – how neural networks actually accomplish the task.
 
 This can be illustrated by the examples of vision and memory.
 
@@ -48,7 +48,7 @@ The problem in this case is to recall events, usually based on partial informati
 The algorithm here models memory as a dynamical system with fixed points, which are designated as "memories". We have an *activity space*, in which the partial information is situated; retrieval follows a path from the partial information to the fixed point, where the complete information is stored. The region around the memory from which the memory can be found is called its *basin of attraction* (in dynamical systems terms).
 
 One neural implementation of this problem is the *Hopfield model*, which models neurons as the process
-$$x_i = \text{sign}(\sum_j J_{ij} x_j).$$
+$$x_i = \text{sign}\left(\sum_j J_{ij} x_j\right).$$
 
 ## Abbott and Dayan's Classification
 Abbott and Dayan classify models into three main types:
