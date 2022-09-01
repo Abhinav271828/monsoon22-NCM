@@ -49,7 +49,7 @@ These four equations together are the Hodgkin-Huxley equations.
 The general framework of this model can be expressed in the following equations
 $$\begin{split}
 C\frac{dU}{dt} &= - \sum I_\text{ion} + I(t) \\
-I_\text{ion} &= - g_\text{ion} r^{n_1} s^{n_2} \\
+I_\text{ion} &= - g_\text{ion} \cdot r^{n_1} s^{n_2} \cdot (U - U_\text{ion}) \\
 \frac{dr}{dt} &= -\frac{[r-r_0(u)]}{\tau_r(u)} \\
 \frac{ds}{dt} &= -\frac{[s-s_0(u)]}{\tau_s(u)}
 \end{split}$$

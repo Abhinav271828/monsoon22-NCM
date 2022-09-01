@@ -58,4 +58,8 @@ Notes and resources for the Intro to Neural and Cognitive Modelling course at II
             - Resting Potential
 * Week 6
     * Lecture 8 (29 August, Monday)
-        * 
+        * Hodgkin-Huxley Model
+    * Lecture 9 (01 August, Thursday)
+        * Hodgkin-Huxley Model (contd.)
+            - Pulse Input
+            - Step Input
