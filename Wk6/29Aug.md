@@ -34,7 +34,10 @@ C\frac{dU}{dt} &= - I_\text{K} - I_\text{Na} - I_l + I(t) \\
 
 The conductance $g$ of any of the ions, however, varies according to the degree to which the corresponding channels are open, which is modelled by a *gating variable* $\in [0,1]$.  
 For potassium, we have a single gating variable $n$, while for sodium we have two, $m$ and $h$. $m$ is the *activation* gating variable, while $h$ is the inactivation gating variable. These are added to the equation above to get
-$$C\frac{dU}{dt} = - g_\text{K} \cdot n^4 \cdot (U - U_\text{K}) - g_\text{Na} \cdot m^3 \cdot h \cdot  (U - U_\text{Na}) - g_l \cdot (U - U_l) + I(t).$$
+$$\begin{split}
+C\frac{dU}{dt} = &- g_\text{K} \cdot n^4 \cdot (U - U_\text{K}) \\
+&- g_\text{Na} \cdot m^3 \cdot h \cdot  (U - U_\text{Na}) \\
+&- g_l \cdot (U - U_l) + I(t). \end{split}$$
 
 We also have equations to determine the values of the gating variables:
 $$\begin{split}
