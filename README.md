@@ -64,7 +64,10 @@ Notes and resources for the Intro to Neural and Cognitive Modelling course at II
             - Pulse Input
             - Step Input
 * Week 7
-    * Lecture 10 (05 August, Monday)
+    * Lecture 10 (05 September, Monday)
         * Synapses
             - Modelling
             - Plasticity
+    * Lecture 11 (08 September, Thursday)
+        * Dendrites (Compartmental Models)
+        * Hay et al. (2011)
