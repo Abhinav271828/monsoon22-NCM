@@ -71,3 +71,8 @@ Notes and resources for the Intro to Neural and Cognitive Modelling course at II
     * Lecture 11 (08 September, Thursday)
         * Dendrites (Compartmental Models)
         * Hay et al. (2011)
+* Week 8
+    * Lecture 12 (15 September, Thursday)
+        * Hay et al. (2011) (contd.)
+	* Hodgkin-Huxley Revisited
+	    - Separation of Timescales (detour)
