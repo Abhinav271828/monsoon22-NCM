@@ -76,3 +76,7 @@ Notes and resources for the Intro to Neural and Cognitive Modelling course at II
         * Hay et al. (2011) (contd.)
 	* Hodgkin-Huxley Revisited
 	    - Separation of Timescales (detour)
+* Week 10
+	* Hodgkin-Huxley Revisited (contd.)
+    * Phase Plan Analysis
+        - Analysis of 2D Neuron Model
