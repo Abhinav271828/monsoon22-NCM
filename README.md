@@ -74,9 +74,14 @@ Notes and resources for the Intro to Neural and Cognitive Modelling course at II
 * Week 8
     * Lecture 12 (15 September, Thursday)
         * Hay et al. (2011) (contd.)
-	* Hodgkin-Huxley Revisited
-	    - Separation of Timescales (detour)
+	    * Hodgkin-Huxley Revisited
+	        - Separation of Timescales (detour)
 * Week 10
-	* Hodgkin-Huxley Revisited (contd.)
-    * Phase Plan Analysis
-        - Analysis of 2D Neuron Model
+    * Lecture 13 (26 September, Monday)
+	    * Hodgkin-Huxley Revisited (contd.)
+        * Phase Plan Analysis
+            - Analysis of 2D Neuron Model
+    * Lecture 14 (29 September, Thursday)
+        * Phase Plan Analysis (contd.)
+            - Stability of Fixpoints (detour)
+            - Bifurcation ig
