@@ -85,3 +85,6 @@ Notes and resources for the Intro to Neural and Cognitive Modelling course at II
         * Phase Plan Analysis (contd.)
             - Stability of Fixpoints (detour)
             - Bifurcation ig
+* Week 11
+    * Lecture 15 (06 October, Thursday)
+        * Population Models
