@@ -88,3 +88,8 @@ Notes and resources for the Intro to Neural and Cognitive Modelling course at II
 * Week 11
     * Lecture 15 (06 October, Thursday)
         * Population Models
+* Week 12
+    * Lecture 16 (13 October, Thursday)
+        * Population Models (contd.)
+            * Reduction
+            * Phase-Plane Analysis & Decision Making
