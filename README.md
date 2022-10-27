@@ -96,3 +96,11 @@ Notes and resources for the Intro to Neural and Cognitive Modelling course at II
 * Week 13
     * Lecture 17 (20 October, Thursday)
         * Decision-Making
+* Week 14
+    * Lecture 18 (24 October, Monday)
+        * [recorded]
+    * Lecture 19 (27 October, Thursday)
+        * Reinforcement Learning
+            * Learning
+            * Challenges
+            * Definition
