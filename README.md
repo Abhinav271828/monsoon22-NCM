@@ -104,3 +104,7 @@ Notes and resources for the Intro to Neural and Cognitive Modelling course at II
             * Learning
             * Challenges
             * Definition
+* Week 15
+    * Lecture 20 (31 October, Monday)
+        * Reinforcement Learning (contd.)
+            * Reward-Based Action Learning
