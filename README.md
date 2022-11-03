@@ -108,3 +108,5 @@ Notes and resources for the Intro to Neural and Cognitive Modelling course at II
     * Lecture 20 (31 October, Monday)
         * Reinforcement Learning (contd.)
             * Reward-Based Action Learning
+    * Lecture 21 (03 November, Thursday)
+        * Systems for Computing and Information Processing
