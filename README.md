@@ -110,3 +110,6 @@ Notes and resources for the Intro to Neural and Cognitive Modelling course at II
             * Reward-Based Action Learning
     * Lecture 21 (03 November, Thursday)
         * Systems for Computing and Information Processing
+* Week 16
+    * Lecture 22 (07 November, Monday)
+        * Hebbian Learning
