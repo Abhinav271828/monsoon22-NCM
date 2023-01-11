@@ -113,3 +113,8 @@ Notes and resources for the Intro to Neural and Cognitive Modelling course at II
 * Week 16
     * Lecture 22 (07 November, Monday)
         * Hebbian Learning
+    * Lecture 23 (10 November, Thursday)
+        * [missed]
+* Week 17
+    * Lecture 24 (14 November, Monday)
+        *
